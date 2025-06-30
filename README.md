@@ -54,26 +54,3 @@ cd realtime-chat-app
 
 ---
 
-## ** Start **
-
-### **frontend**
-cd server
-npm install
-npm run dev
-
-
-### **backend**
-cd client
-npm install
-npm run dev
-
----
-
-## **📡 Real-Time Features**
-
-Socket.IO for real-time messaging
-Online user indicator
-Instant message broadcast
-Auto scroll to latest message
-
-
